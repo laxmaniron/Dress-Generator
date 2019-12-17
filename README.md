@@ -21,7 +21,7 @@ A deep learning algorithm to generate new dresses
 </ul>
 
 # Results
-## Content   ## Style       ## Generated Dress
+## Content              Style             Generated Dress
 
 
 # This github code is based on the code written by below authors
