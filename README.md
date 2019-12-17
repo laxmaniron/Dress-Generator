@@ -17,7 +17,7 @@ A deep learning algorithm to generate new dresses
 <li>install the dependencies properly and clone the repository</li>
 <li>navigate into guided-neural-style-transfer folder</li>
 <li>open terminal there</li>
- <li>Type command python webtojpg.py</li>
+ <li>Type command <b>python webtojpg.py</b></li>
 </ul>
 
 # Results
