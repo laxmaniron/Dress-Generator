@@ -11,20 +11,14 @@ A deep learning algorithm to generate new dresses
   <li>Cudnn</li>
 <ul>
 
-# Quick Start
+# Instructions for usage
+ install the dependencies properly and clone the repository
+ navigate into guided-neural-style-transfer folder
+ open terminal there
 
---clone it and navigate to the cloned folder
---open terminal and type command $<b>npm install</b>
-  and go to the below github link and download repository
-  
-  https://github.com/laxmaniron/soad_unofficial
-  and install it using npm install and connect to mongodb
-  
-  and then do
+# npm start
 
-  # npm start
-
-  You are good to go
+You are good to go
   
 ## Features
 
