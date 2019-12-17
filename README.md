@@ -10,6 +10,12 @@ A deep learning algorithm to generate new dresses
  <li>Tensorflow version 1.14 </li> 
  <li>Cuda toolkit 10.0</li>
   <li>Cudnn</li>
+ 
+ <li> Pretrained VGG-19 Model<li>
+<li><ol type="a">
+ <li>VGG-19 Model: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat.</li>
+
+<li>After downloading, put it in the top level of this repository.</li></ol></li>
 </ul>
 
 # Instructions for usage
