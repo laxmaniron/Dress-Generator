@@ -19,3 +19,16 @@ A deep learning algorithm to generate new dresses
 <li>open terminal there</li>
  <li>Type command python webtojpg.py</li>
 </ul>
+
+#This github code is based on the code written by below authors
+## Credits 
+```
+@misc{Wang2017,
+  author = {Wang, Zirui},
+  title = {guided-neural-style},
+  year = {2017},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/wzirui/guided-neural-style}},
+}
+```
