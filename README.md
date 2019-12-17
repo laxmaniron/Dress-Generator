@@ -7,7 +7,7 @@ A deep learning algorithm to generate new dresses
 <ul>
  <li>Matlab</li>
  <li>Tensorflow version 1.14 </li> 
- <li>Cuda toolkit 10.0<li>
+ <li>Cuda toolkit 10.0</li>
   <li>Cudnn</li>
 <ul>
 
