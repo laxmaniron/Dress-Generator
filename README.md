@@ -15,7 +15,7 @@ A deep learning algorithm to generate new dresses
 <li><ol type="a">
  <li>VGG-19 Model: http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat.</li>
 
-<li>After downloading, put it in the top level of this repository.</li></ol></li>
+<li>After downloading, put it in guided-neural-style-master folder.</li></ol></li>
 </ul>
 
 # Instructions for usage
