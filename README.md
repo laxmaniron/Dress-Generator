@@ -20,6 +20,10 @@ A deep learning algorithm to generate new dresses
  <li>Type command python webtojpg.py</li>
 </ul>
 
+# Results
+## Content   ## Style       ## Generated Dress
+
+
 # This github code is based on the code written by below authors
 ## Credits 
 ```
