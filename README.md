@@ -1,5 +1,5 @@
 
-# Dress Generator
+# New Dress Generation using neural style transfer
 
 A deep learning algorithm to generate new dresses
 
